@@ -23,3 +23,19 @@ O foco do estabelecimento é voltado para o publico feminino, mas principalmente
 
 ![image](https://user-images.githubusercontent.com/111283751/201122331-48a247a8-5b37-44d6-ac30-f56d9bdabcdc.png)
 Site que a vendas de produtos de crochê
+
+
+
+16/11/2022:
+Início do desenvolvimento visual do site no figma , definição de cores principais, criação do logotipo, essas suas etapas tiramos como guia o instagram da estabelecimento https://www.instagram.com/re.badulake/, onde ja possui cores temas e ja possui um logo.
+
+Criação da bar do site onde utilizou um degrade das duas cores principais como forma de estabelecer que essas são as cores temas do projeto.
+Criação também da NavBar onde possui os principais áreas do site (Início,Vetuários,Bolsas,Acessórios).
+Edição de uma foto do estabelecimento usando o PhotoShop para colocar no desenvolvimento do site.
+
+17/11/2022:
+Desenvolvimento da pagina inicial do site, criando um divisão na página onde na primeira mostra fotos relacionadas ao estabelecioemnto e a segunda mostra a localização do ponto de venda , contatos e horários de funcionamento.
+Edição de fotos no photoShop retiradas do instagram. 
+Criação de um papel de fundo com o logo do estabelecimento.
+
+
