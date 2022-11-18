@@ -49,4 +49,8 @@ Edição de fotos no photoShop retiradas do instagram.
 Criação de um papel de fundo com o logo do estabelecimento.
 Recortamento e edição de foto dos produtos da loja 
 
+18/11/2022:
+Desenvolvimento das abas de de vestuário, bolsas, acessórios, e finalização da primeira parte do projeto
+Implementação dos produtos da loja no site 
+
 
