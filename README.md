@@ -21,8 +21,18 @@ Conhecer mais o estabelecimento e os produtos que são oferecidos para compra
 O foco do estabelecimento é voltado para o publico feminino, mas principalmente por aqueles pessoas que admiram e gostam de produtos feitos de crochê 
 
 
+
+
 ![image](https://user-images.githubusercontent.com/111283751/201122331-48a247a8-5b37-44d6-ac30-f56d9bdabcdc.png)
 Site que a vendas de produtos de crochê
+
+![image](https://user-images.githubusercontent.com/111283751/202698148-d6956164-ada2-42cb-89c4-9f8ce08188ea.png)
+Referência de mostrar os produtos , como lugar de preços e nomes   
+
+![image](https://user-images.githubusercontent.com/111283751/202698735-7f185a12-aa86-4fe5-ae81-a6f9219d204f.png)
+Referência de centralizar o conteudo do site e nao utilizando todo o espaço 
+
+
 
 
 
@@ -37,5 +47,6 @@ Edição de uma foto do estabelecimento usando o PhotoShop para colocar no desen
 Desenvolvimento da pagina inicial do site, criando um divisão na página onde na primeira mostra fotos relacionadas ao estabelecioemnto e a segunda mostra a localização do ponto de venda , contatos e horários de funcionamento.
 Edição de fotos no photoShop retiradas do instagram. 
 Criação de um papel de fundo com o logo do estabelecimento.
+Recortamento e edição de foto dos produtos da loja 
 
 
